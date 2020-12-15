@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import styled from "styled-components";
-import img from "/Users/teamnaumann/Desktop/Lambda/web-sprint-challenge-single-page-applications/src/images/chad-montano-MqT0asuoIcU-unsplash.jpg";
+import img from "/Users/teamnaumann/Desktop/Lambda/Unit 2/web-sprint-challenge-single-page-applications/src/images/ivan-torres-MQUqbmszGGM-unsplash.jpg";
 import "../App.css";
 import * as yup from "yup";
 import axios from "axios";

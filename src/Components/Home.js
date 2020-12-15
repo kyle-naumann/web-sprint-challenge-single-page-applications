@@ -1,12 +1,13 @@
 import React from "react";
 import styled from "styled-components";
-import img from "/Users/teamnaumann/Desktop/Lambda/web-sprint-challenge-single-page-applications/src/images/daan-evers-tKN1WXrzQ3s-unsplash.jpg";
+import img from '/Users/teamnaumann/Desktop/Lambda/Unit 2/web-sprint-challenge-single-page-applications/src/images/patrick-tomasso-GXXYkSwndP4-unsplash.jpg';
 
 const ImageBackground = styled.div`
   vertical-align: top;
   display: block;
   width: 100vw;
 `;
+
 
 const Home = () => {
   return (
